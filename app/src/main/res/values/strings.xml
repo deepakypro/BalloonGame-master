@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Balloon Burst</string>
+
+    <string name="play_game">Play game</string>
+
+    <string name="score_card">SCORE CARD</string>
+    <string name="hit">Hit</string>
+    <string name="missed">Missed</string>
+    <string name="ok">OK</string>
+
+</resources>
